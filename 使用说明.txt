@@ -1,0 +1,4 @@
+神州明见WEB版
+如果是在正式正式的https网站下部署，需要把三个文件都上传，文件不能改名。可以支持PWA。
+如果是作为本地网页使用或者在http网站下部署，只需要使用index.html一个文件，可以改名。无法支持PWA。
+更多说明请看: https://szmj0.github.io/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.htm
